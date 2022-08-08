@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loremispum/static/css/main.c0bfd783.css",
+    "main.js": "/loremispum/static/js/main.720728c9.js",
+    "static/js/787.829fa68b.chunk.js": "/loremispum/static/js/787.829fa68b.chunk.js",
+    "index.html": "/loremispum/index.html",
+    "main.c0bfd783.css.map": "/loremispum/static/css/main.c0bfd783.css.map",
+    "main.720728c9.js.map": "/loremispum/static/js/main.720728c9.js.map",
+    "787.829fa68b.chunk.js.map": "/loremispum/static/js/787.829fa68b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0bfd783.css",
+    "static/js/main.720728c9.js"
+  ]
+}
